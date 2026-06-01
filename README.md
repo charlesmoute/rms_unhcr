@@ -2,6 +2,8 @@
 
 > **Enquête de Suivi des Résultats (RMS)** — Outils R pour la collecte, le suivi en temps réel et l'analyse des indicateurs selon la norme standard du HCR.
 
+**🌐 Démo en ligne : [charlesmoute.shinyapps.io/rms_dashboard](https://charlesmoute.shinyapps.io/rms_dashboard/)**
+
 ---
 
 ## Table des matières
